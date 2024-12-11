@@ -16,19 +16,15 @@ This project implements an in-memory key-value database in C++ with support for 
 
 ## **Setup and Usage Instructions**
 
-### **Requirements**
-- C++ Compiler supporting C++20 (e.g., GCC 11+, Clang 12+).
-- CMake (if building with CMake).
-- A development environment (e.g., VSCode, CLion, or terminal).
-
-### **Setup**
-
-#### **Using CLion**
-1. Open CLion and select "Open" from the welcome screen.
-2. Navigate to the project directory and open it.
-3. Ensure the `CMakeLists.txt` file exists in the project directory. CLion automatically detects it and configures the build.
-4. Click the "Run" button (green triangle) in the top-right corner to build and execute the project.
-5. View the output in the "Run" console at the bottom.
+### **Clone the repository**
+1. Clone the repository:
+   ```bash
+   https://github.com/KOrtizLedezma/DataProcessingAndStorage.git
+   ```
+2. Move into the folder:
+   ```bash
+   cd DataProcessingAndStorage/DataProcessingAndStorage/
+   ```
 
 #### **Direct Compilation**
 1. Compile the library first:
