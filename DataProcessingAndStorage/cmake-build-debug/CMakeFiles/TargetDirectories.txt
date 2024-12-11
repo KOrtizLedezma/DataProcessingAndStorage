@@ -1,0 +1,3 @@
+/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug/CMakeFiles/DataProcessingAndStorage.dir
+/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug/CMakeFiles/edit_cache.dir
+/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug/CMakeFiles/rebuild_cache.dir

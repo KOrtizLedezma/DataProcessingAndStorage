@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug",
+	"dir-cur-src" : "/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage",
+	"dir-top-bld" : "/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug",
+	"dir-top-src" : "/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/run/media/kenet/SSD2TB/Users/PERSONAL/UNIVERSITY/College/Fall2024/CIS4930/ExtraCredit/DataProcessingAndStorage/DataProcessingAndStorage/cmake-build-debug/CMakeFiles/DataProcessingAndStorage.dir"
+}
